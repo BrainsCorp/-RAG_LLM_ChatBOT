@@ -99,10 +99,10 @@ streamlit run app.py
 
 ### Replace the Dataset
 - Place your documents (e.g., PDFs, text files) in the `data/` folder.
-- Modify the `preprocess.py` script to handle your data format.
+- Modify the `retriever.py` script to handle your data format.
 
 ### Add a New Retriever
-- Implement your custom retriever logic in the `retriever/` folder.
+- Implement your custom retriever logic in the `utils/` folder.
 
 ---
 
