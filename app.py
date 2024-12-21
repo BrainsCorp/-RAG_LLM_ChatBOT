@@ -1,7 +1,6 @@
 import streamlit as st
 from model.llm import open_ai_model
 from utils.retriever import LangChainRetriever
-from utils.sources2vec import sources2vec
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain import hub
@@ -58,7 +57,6 @@ def add_file():
     for uploaded_file in uploaded_files:
         if uploaded_file and uploaded_file.name not in [source["name"] for source in st.session_state.sources]:
             st.session_state.sources.append({"type": "file", "name": uploaded_file.name, "data": uploaded_file})
-            sources2vec(uploaded_file)
 
 def add_hyperlink():
     """Add a hyperlink to the sources."""
