@@ -76,7 +76,7 @@ OPENAI_API_KEY=your_openai_api_key
 ### 4. Prepare Data
 Add your documents to the `data/` folder and preprocess them:
 ```bash
-python preprocess.py --input data/ --output processed/
+python data2vec.py --input data/ --output processed/
 ```
 
 ### 5. Start the Application
