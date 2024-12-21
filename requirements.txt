@@ -1,0 +1,10 @@
+pandas
+numpy
+transformers
+langchain
+openai
+sentence-transformers
+pinecone-client
+huggingface_hub
+nltk
+spacy

@@ -1,0 +1,54 @@
+
+The first step to developing a good assessment plan is to develop your learning outcomes. For most courses at Humber, you will have already been provided with the overall learning objectives and course expectations in your Course Outline. However, learning outcomes should be applied at every level of the course from a lesson, class, to activities, and assignments.
+Learning outcomes are clear and specific statements that describe what learners are expected to know, understand, and be able to do after completing a course, training program, lesson, or assignment. They provide a roadmap for educators and learners alike, ensuring that the lesson objectives are well-defined and measurable.
+To develop effective learning outcomes, start by identifying the key concepts and skills that need to be mastered. These outcomes should be relevant, achievable, and aligned with the overall goals of the course, lesson, or assignment. Additionally, using action verbs that describe observable behaviors, such as "analyze," "create," or "apply," makes the outcomes more concrete and measurable. When selecting the best verbs, please consult Bloom's Taxonomy, as discussed below.
+Regular assessment and feedback play a crucial role in refining and improving learning outcomes to ensure successful knowledge and skill acquisition.
+Learning outcomes should be:
+• Learner-centered (e.g., "By the end of this course, learners should be able to 	 ")
+• Actionable (e.g., "apply", "describe", "identify", etc. so you can observe it)
+• Measurable (e.g., what would learners do differently if they achieved the objective?)
+
+Two Strategies for Writing Learning Outcomes
+A simple strategy for writing learning outcomes is to use the When, Who, What, and How method
+Example:
+
+When:Who:What:How:By the end of this course,the learner(s) will be able tocompose visually appealing photographsusing fundamental principles of lighting, framing, and perspective.
+
+Another simple way to write out well formulated learning objectives is to follow the ABCDs of writing learning objectives.
+A= Audience
+B = Behaviour
+C = Conditions
+D = Degree (of mastery required)
+
+ABCDthe learner(s) will be able tocompose visually appealing photographsBy the end of this course,using fundamental principles of lighting, framing, and perspective.Aligning Course Outcomes
+Developing course learning outcomes should not be considered simply an obligatory task. Instead, educators have the opportunity to write clear and thoughtful course learning outcomes that connect to smaller and larger pieces of their course, while also supporting both the learner and the learning experience.
+This approach to learning is known as constructive alignment. Constructive alignment places the learner at the centre, and ensures that intended learning, assessment tasks, and learning activities are clearly connected and known before any teaching takes place. Expectations are well communicated to the learners, and teaching and learning activities logically dovetail in a way that seamlessly guides the learner towards mastery of the outcomes.
+
+
+
+
+
+Bloom's Taxonomy of the Cognitive Domain
+Bloom's Taxonomy is a hierarchical framework that classifies learning objectives into different levels of cognitive complexity. It was developed by educational psychologist Benjamin Bloom in 1956 and has been widely used in education to guide curriculum design and assessment. The taxonomy today includes three domains of learning:
+• cognitive (mental knowledge or head),
+• psychomotor (manual/physical doing or head) and
+• affective (feelings/emotions or heart).
+
+That said, educators still emphasize and use the cognitive domain most commonly.
+
+Figure 1: Illustration of Blooms Taxonomy of the Cognitive Domain
+lnfographic Description: Bloom's Taxonomy for the cognitive domain is structured as a pyramid with lower-order thinking skills at the base and higher-order thinking skills at the top. The first level at the base of the pyramid is Remembering, which represents skills in which learners recall specific facts. The second level, Understanding, represents skills in which learners grasp the meaning of instructional materials. The third level, Applying, represents skills in which learners use information in a new (but similar) situation to one they have examined. The fourth level, Analyzing, represents skills in which learners take apart the known and identify relationships. The fifth level is Evaluating, where learners examine information and make judgments. At the top of the pyramid is Creating, where learners use information to create something new.
+Source: University of Florida Center for Instructional Technology and Training via ZME Science.
+
+
+An important note here is that Bloom's Taxonomy is traditionally conceptualized as a pyramid, with lower-order thinking at the base, and higher-order thinking at the peak. However, this hierarchical representation often leads users to the conclusion that lower-order thinking is less important than higher-order thinking. Instead, remember that the lower levels of the pyramid are foundational to the upper-levels, and the upper levels cannot exist without the lower levels. For example, in order for learners to create a final project at the end of their course, they need to be able to remember what they have learned. Therefore, when you select a higher-order level on the pyramid, you include some or all of the levels below.
+Use Bloom's Taxonomy to select the most appropriate verb for your learning outcome. There are many Bloom's Taxonomy resources available online that can help you narrow in on what domain learners are asked to achieve. You can then select from a list of verbs associated with that domain. If you like, you can start by exploring some of the resources listed below.
+
+Additional Resources
+  Learning Objectives_(Eberly Center, Carnegie Mellon University)
+ Bloom's Taxonomy: Why, How, & Top Examples (Teachings in Education)  Bloom's Taxonomy Verb Chart (University of Arkansas)
+  HEQCO's Guide to Developing Course and Program Learning Outcomes (McKeown, 2018)
+
+
+
+
